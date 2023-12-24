@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🎯小盒┃专享",
+      "name": "🎯雨上┃辰下",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
