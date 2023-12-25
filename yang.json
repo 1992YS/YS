@@ -9,19 +9,6 @@
       "ext": "./lib/douban.js"
     },
     {
-      "key": "酷玩",
-      "name": "🎯酷玩┃云盘",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "f1350208afa7479e91904f0c7b0b04ad",
-        "filter": "./lib/wogg.json"
-      },
-      "jar": "./lib/wogg.jar"
-    },
-    {
       "key": "玩偶弹幕",
       "name": "👽玩偶┃云盘",
       "type": 3,
@@ -32,33 +19,7 @@
       "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-    {
-      "key": "csp_WoGG",
-      "name": "👽玩偶┃搜索",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
-    },
-    {
-      "key": "fm云盘玩偶",
-      "name": "🧙玩偶┃哥哥",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./lib/ali2.jar",
-      "ext": {
-        "token": "./tvbox/tok.txt",
-        "filter": "./lib/wogg.json"
-      }
-    },
-    {
+   {
       "key": "子子影视",
       "name": "➰影视┃子子",
       "type": 3,
@@ -269,61 +230,9 @@
       "changeable": 0,
       "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
-    {
-      "key": "fm云盘搜索",
-      "name": "📦小盒┃云搜",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./lib/ali2.jar",
-      "ext": "./tvbox/tok.txt"
-    },
-    {
-      "key": "fm云盘易搜",
-      "name": "📱酷玩┃易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./lib/ali2.jar",
-      "ext": "./tvbox/tok.txt"
-    },
-    {
-      "key": "fm云盘盘搜",
-      "name": "⭕酷玩┃盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./lib/ali2.jar",
-      "ext": "./tvbox/tok.txt"
-    },
-    {
-      "key": "fm云盘云搜",
-      "name": "⛅酷玩┃云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "jar": "./lib/ali2.jar",
-      "ext": "./tvbox/tok.txt"
-    },
-    {
+   {
       "key": "fm云盘七夜",
-      "name": "🌖酷玩┃七夜",
+      "name": "🌖七夜┃云搜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -336,7 +245,7 @@
     },
     {
       "key": "xh",
-      "name": "🎯2023.11.28更新",
+      "name": "🎯2023.12.25更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
