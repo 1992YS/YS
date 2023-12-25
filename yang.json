@@ -1,5 +1,5 @@
 {
-  "warningText": "小盒酷玩提醒：每次使用前记得长按主页刷新接口",
+  "warningText": "温馨提示：每次使用前记得长按主页刷新接口",
   "sites": [
     {
       "key": "豆瓣",
@@ -244,10 +244,10 @@
       "ext": "./tvbox/tok.txt"
     },
     {
-      "key": "xh",
+      "key": "更新",
       "name": "🎯2023.12.25更新",
       "type": 3,
-      "api": "csp_xh",
+      "api": "csp_gx",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -357,7 +357,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://jk.xhkw.fun/live.txt",
+      "url": "./live4.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
