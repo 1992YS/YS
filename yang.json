@@ -6,7 +6,6 @@
       "name": "🎯雨上┃辰下",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "jar": "./jar/xhkw1.jar",
       "ext": "./lib/douban.js"
     },
     {
@@ -358,7 +357,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/xhkw1.jar",
+  "spider": "./jar/1225.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
