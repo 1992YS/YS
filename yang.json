@@ -6,6 +6,7 @@
       "name": "🎯雨上┃辰下",
       "type": 3,
       "api": "./lib/drpy2.min.js",
+      "jar": "./jar/xhkw1.jar",
       "ext": "./lib/douban.js"
     },
     {
@@ -13,7 +14,7 @@
       "name": "👽玩偶┃云盘",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./lib/wodm.jar",
+      "jar": "./jar/wodm.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -24,6 +25,7 @@
       "name": "➰影视┃子子",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -34,6 +36,7 @@
       "name": "🥫NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -45,6 +48,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -62,6 +66,7 @@
       "name": "🌱Free┃影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -97,7 +102,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4=",
-      "jar": "./lib/xyq.jar"
+      "jar": "./jar/xyq.jar"
     },
     {
       "key": "6v",
@@ -106,7 +111,7 @@
       "api": "csp_XYQHiker",
       "playerType": 1,
       "ext": "./lib/6v.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./jar/xyq.jar"
     },
     {
       "key": "电影港",
@@ -115,13 +120,14 @@
       "api": "csp_XYQHiker",
       "playerType": "1",
       "ext": "./lib/电影港.json",
-      "jar": "./lib/xyq.jar"
+      "jar": "./jar/xyq.jar"
     },
     {
       "key": "素白",
       "name": "🕣影视┃素白白",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "playerType": "1",
       "ext": "./lib/素白白.json"
     },
@@ -138,6 +144,7 @@
       "name": "🎈影视┃007",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/xhkw1.jar",
       "ext": "./lib/007影视.json"
     },
     {
@@ -146,14 +153,14 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://aidiapp.xyz/xgapp.php/v2/",
-      "jar": "./lib/xyq.jar"
+      "jar": "./jar/xyq.jar"
     },
     {
       "key": "夸克",
       "name": "夸克┃网盘",
       "type": 3,
       "api": "csp_QuPanSou",
-      "jar": "./lib/kuake.jar",
+      "jar": "./jar/kuake.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -207,7 +214,7 @@
         "password": "xiaozhitiaonb",
         "danmu": true
       },
-      "jar": "./lib/OKDM.jar",
+      "jar": "./jar/OKDM.jar",
       "timeout": 30
     },
     {
@@ -240,12 +247,12 @@
       "filterable": 1,
       "changeable": 0,
       "hide": 1,
-      "jar": "./lib/ali2.jar",
+      "jar": "./jar/ali2.jar",
       "ext": "./tvbox/tok.txt"
     },
     {
       "key": "更新",
-      "name": "🎯2023.12.25更新",
+      "name": "🎯2023.12.26更新",
       "type": 3,
       "api": "csp_gx",
       "searchable": 0,
@@ -351,7 +358,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./1225.jar",
+  "spider": "./jar/1225.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
