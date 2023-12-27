@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "./tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
    {
       "key": "子子影视",
@@ -57,10 +57,45 @@
     },
     {
       "key": "js_v2-jrly",
-      "name": "📯嘉音┃切片",
+      "name": "📯嘉靓┃切片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/嘉良.js"
+      "ext": "./lib/嘉靓.js"
+    },
+    {
+      "key": "亮亮",
+      "name": "📯亮亮┃切片",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/亮亮.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "znjson",
+      "name": "✂️ZNJ┃切片",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "小胡",
+      "name": "🙆小胡┃影视",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },
+    {
+      "key": "996影院",
+      "name": "🥅996┃追剧",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "csp_Free",
@@ -178,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "七夜",
@@ -188,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|fhd|auto"
+      "ext": "./tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "YiSo",
@@ -199,7 +234,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "小纸条",
@@ -210,7 +245,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "token": "./tvbox/tok.txt",
+        "token": "./tvbox/token.txt",
         "username": "xiaozhitiaonb",
         "password": "xiaozhitiaonb",
         "danmu": true
@@ -226,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -236,7 +271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./tvbox/tok.txt+4k|auto|fhd"
+      "ext": "./tvbox/token.txt+4k|auto|fhd"
     },
    {
       "key": "fm云盘七夜",
@@ -249,7 +284,7 @@
       "changeable": 0,
       "hide": 1,
       "jar": "./jar/ali2.jar",
-      "ext": "./tvbox/tok.txt"
+      "ext": "./tvbox/token.txt"
     },
     {
       "key": "更新",
