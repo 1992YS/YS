@@ -112,7 +112,7 @@
       "name": "🦃墨鸦┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./jar/Yoursmile.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -471,7 +471,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/饭.jar",
+  "spider": "./jar/Yoursmile.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
