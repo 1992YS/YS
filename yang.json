@@ -154,6 +154,17 @@
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
+      "key": "hx影视",
+      "name": "🌊海星┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/Yoursmile.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/海星.json"
+    },
+    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
