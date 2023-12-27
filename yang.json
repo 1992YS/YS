@@ -365,7 +365,7 @@
     },
     {
       "key": "更新",
-      "name": "🎯2023.12.27更新",
+      "name": "🎯2023.12.28更新",
       "type": 3,
       "api": "csp_gx",
       "searchable": 0,
@@ -471,7 +471,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/spider.jar;md5;c77fd9af1aa038646d124958adf31d1b",
+  "spider": "./jar/pg.jar;md5;c77fd9af1aa038646d124958adf31d1b",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
