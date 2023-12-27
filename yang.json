@@ -126,6 +126,14 @@
       "ext": "./lib/03.json"
     },
     {
+      "key": "云播",
+      "name": "☁️云播┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/Yoursmile.jar",
+      "ext": "./lib/云播.json"
+    },
+    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
