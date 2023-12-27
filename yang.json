@@ -471,7 +471,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/spider.jar",
+  "spider": "./jar/kw.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
