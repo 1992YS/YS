@@ -26,7 +26,6 @@
       "name": "➰影视┃子子",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -37,7 +36,6 @@
       "name": "🥫NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -49,7 +47,6 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -67,7 +64,6 @@
       "name": "🌱Free┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -128,7 +124,6 @@
       "name": "🕣影视┃素白白",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "playerType": "1",
       "ext": "./lib/素白白.json"
     },
@@ -145,7 +140,6 @@
       "name": "🎈影视┃007",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar",
       "ext": "./lib/007影视.json"
     },
     {
@@ -253,7 +247,7 @@
     },
     {
       "key": "更新",
-      "name": "🎯2023.12.26更新",
+      "name": "🎯2023.12.27更新",
       "type": 3,
       "api": "csp_gx",
       "searchable": 0,
@@ -359,7 +353,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/fty.jar",
+  "spider": "./jar/YSC.jar",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
