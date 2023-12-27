@@ -83,6 +83,16 @@
       "changeable": 0
     },
     {
+      "key": "飞云",
+      "name": "⛅飞云┃切片",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "小胡",
       "name": "🙆小胡┃影视",
       "type": 1,
