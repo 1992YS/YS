@@ -117,6 +117,15 @@
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "03",
+      "name": "🧠零三┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/Yoursmile.jar",
+      "playerType": "1",
+      "ext": "./lib/03.json"
+    },
+    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
