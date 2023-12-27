@@ -145,6 +145,15 @@
       "ext": "./lib/疯狗.json"
     },
     {
+      "key": "天天",
+      "name": "💟天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "changeable": 0,
+      "ext": "http://op.ysdqjs.cn$$$null$$$1"
+    },
+    {
       "key": "csp_Free",
       "name": "🌱Free┃影视",
       "type": 3,
