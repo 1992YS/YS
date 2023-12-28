@@ -26,7 +26,7 @@
       "name": "➰影视┃子子",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
+      "jar": "./jar/xhkw1.jar;",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -471,7 +471,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./jar/spider.jar;md5;17d7e3dcde6c9d3ab25b87dcaf77a3cd",
+  "spider": "./jar/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
   "wallpaper": "https://tool.weetai.cn/api",
   "lives": [
     {
