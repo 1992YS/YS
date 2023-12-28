@@ -26,7 +26,6 @@
       "name": "➰影视┃子子",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/赞赞.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -37,7 +36,6 @@
       "name": "🥫NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/赞赞.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -111,7 +109,6 @@
       "name": "🦃墨鸦┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -130,7 +127,6 @@
       "name": "🧠零三┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "playerType": "1",
       "ext": "./lib/03.json"
     },
@@ -139,7 +135,6 @@
       "name": "☁️云播┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "ext": "./lib/云播.json"
     },
     {
@@ -147,7 +142,6 @@
       "name": "🐶疯狗┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -167,7 +161,6 @@
       "name": "🌊海星┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -178,7 +171,6 @@
       "name": "🌱Free┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -239,7 +231,6 @@
       "name": "🕣影视┃素白白",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "playerType": "1",
       "ext": "./lib/素白白.json"
     },
@@ -256,7 +247,6 @@
       "name": "🎈影视┃007",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
       "ext": "./lib/007影视.json"
     },
     {
