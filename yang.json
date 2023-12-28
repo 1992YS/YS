@@ -26,7 +26,7 @@
       "name": "➰影视┃子子",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./jar/kw.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
