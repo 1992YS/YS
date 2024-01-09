@@ -12,6 +12,16 @@
       "ext": "./lib/douban.json"
     },
     {
+      "key": "七星",
+      "name": "七星┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七星影视.js"
+    },
+    {
       "key": "Token配置",
       "name": "📂Token┃配置",
       "type": 3,
