@@ -1026,7 +1026,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "http://小盒酷玩.xyz:70/禁止贩卖;md5;363ab9481b1be5664752c6b2aff6a298",
+  "spider": "./jar/spider;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
   "wallpaper": "http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",
   "lives": [
     {
