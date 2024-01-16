@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://api.wogg.xyz/$$$null$$$1",
       "timeout": 60
     },
     {
