@@ -147,7 +147,7 @@
       "key": "花海",
       "name": "🌼花海┃影视",
       "api": "csp_AppYs",
-      "jar": "./jar/spider.jar",
+      "jar": "./jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
