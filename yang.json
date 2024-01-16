@@ -368,16 +368,6 @@
       "changeable": 0
     },
     {
-      "key": "短剧网",
-      "name": "🍶全网┃短剧",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "jar": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_短剧大全",
       "name": "🧮短剧┃大全",
       "type": 3,
