@@ -619,7 +619,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/相声小品.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "美食",
@@ -630,7 +630,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/美食.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "健身",
@@ -641,7 +641,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/健身.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "国学",
@@ -652,7 +652,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/国学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "百科",
@@ -663,7 +663,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/百科.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "地理",
@@ -674,7 +674,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/地理.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "科学",
@@ -685,7 +685,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/科学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "戏 曲",
@@ -696,7 +696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/戏曲.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "兔小贝",
@@ -717,7 +717,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/外语.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "幼儿",
@@ -728,7 +728,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼儿.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "小学",
@@ -739,7 +739,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "初中",
@@ -750,7 +750,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/初中.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "高中",
@@ -761,7 +761,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/高中.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -772,7 +772,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "yz",
