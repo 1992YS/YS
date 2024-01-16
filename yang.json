@@ -372,7 +372,7 @@
       "name": "🍶全网┃短剧",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./jar/pg.jar",
+      "jar": "./jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
