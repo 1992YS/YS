@@ -55,7 +55,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jar/wogg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "玩偶表哥",
