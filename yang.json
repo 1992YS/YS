@@ -32,7 +32,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./jar/wogg.jar",
+      "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
