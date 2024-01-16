@@ -55,7 +55,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "http://小盒酷玩.xyz:73/禁止贩卖"
+      "jar": "./jar/wogg.jar"
     },
     {
       "key": "玩偶表哥",
