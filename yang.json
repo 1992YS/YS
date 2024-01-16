@@ -12,19 +12,6 @@
       "ext": "./lib/douban.json"
     },
     {
-      "key": "Token配置",
-      "name": "📂Token┃配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖"
-    },
-    {
       "key": "Woggpg",
       "name": "👽玩偶┃云盘",
       "type": 3,
@@ -147,10 +134,7 @@
       "key": "花海",
       "name": "🌼花海┃影视",
       "api": "csp_AppYs",
-      "jar": "./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "./jar/xhkw1.jar",
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
@@ -298,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/spider.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "saoho",
@@ -324,7 +308,7 @@
       "api": "csp_Skapp",
       "playerType": 2,
       "ext": "wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==",
-      "jar": "http://小盒酷玩.xyz:76/禁止贩卖"
+      "jar": "xhkw1"
     },
     {
       "key": "csp_农民",
@@ -383,7 +367,7 @@
       "name": "👘团长┃网盘",
       "type": 3,
       "api": "csp_TZFile",
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$null$$$1",
+      "ext": "./lib/pg.json$$$null$$$1",
       "quickSearch": 1,
       "changeable": 0,
       "timeout": 60
@@ -397,7 +381,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$null$$$1",
+      "ext": "./lib/pg.json$$$null$$$1",
       "timeout": 60
     },
     {
@@ -409,7 +393,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$./lib/4khdr.txt$$$1",
+      "ext": "./lib/pg.json$$$./lib/4khdr.txt$$$1",
       "timeout": 60
     },
     {
@@ -421,7 +405,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -433,7 +417,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$https://dapanso.com$$$null"
+      "ext": "./lib/pg.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "xb七夜",
@@ -444,7 +428,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -456,7 +440,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
+      "ext": "./lib/pg.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
       "timeout": 60
     },
     {
@@ -468,7 +452,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -480,7 +464,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -492,7 +476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -504,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖",
+      "ext": "./lib/pg.json",
       "timeout": 60
     },
     {
@@ -516,7 +500,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://小盒酷玩.xyz:71/禁止贩卖$$$null$$$1",
+      "ext": "./lib/pg.json$$$null$$$1",
       "timeout": 60
     },
     {
@@ -635,7 +619,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/相声小品.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "美食",
@@ -646,7 +630,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/美食.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "健身",
@@ -657,7 +641,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/健身.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "国学",
@@ -668,7 +652,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/国学.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "百科",
@@ -679,7 +663,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/百科.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "地理",
@@ -690,7 +674,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/地理.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "科学",
@@ -701,7 +685,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/科学.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "戏 曲",
@@ -712,7 +696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/戏曲.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "兔小贝",
@@ -733,7 +717,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/外语.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "幼儿",
@@ -744,7 +728,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼儿.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "小学",
@@ -755,7 +739,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小学.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "初中",
@@ -766,7 +750,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/初中.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "高中",
@@ -777,7 +761,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/高中.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -788,7 +772,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩.json",
-      "jar": "http://小盒酷玩.xyz:78/禁止贩卖"
+      "jar": "./lib/jiaoyu.jar"
     },
     {
       "key": "yz",
