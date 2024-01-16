@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/xyq.jar"
+      "jar": "./jar/spider.jar"
     },
     {
       "key": "saoho",
