@@ -16,7 +16,7 @@
       "name": "👽玩偶┃网盘",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./lib/xhfan.jar",
+      "jar": "./jar/xhfan.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -52,7 +52,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "玩偶表哥",
@@ -81,7 +81,7 @@
       "name": "🥫NO┃视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -92,7 +92,7 @@
       "name": "🌱Free┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -125,7 +125,7 @@
       "name": "🦃墨鸦┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -135,7 +135,7 @@
       "key": "花海",
       "name": "🌼花海┃影视",
       "api": "csp_AppYs",
-      "jar": "./lib/xhkwsvip.jar",
+      "jar": "./jar/xhkw1.jar",
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
@@ -145,7 +145,7 @@
       "name": "🧠零三┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "playerType": "1",
       "ext": "./lib/03.json"
     },
@@ -154,7 +154,7 @@
       "name": "☁️云播┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "ext": "./lib/云播.json"
     },
     {
@@ -162,7 +162,7 @@
       "name": "🐶疯狗┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -182,7 +182,7 @@
       "name": "🌊海星┃TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -202,7 +202,7 @@
       "name": "👁耐看┃点播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -213,7 +213,7 @@
       "name": "🤩开心┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -224,7 +224,7 @@
       "name": "🏰多剧┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -235,7 +235,7 @@
       "name": "🚟鑫鑫┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/xhkwsvip.jar",
+      "jar": "./jar/xhkw1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -246,7 +246,7 @@
       "name": "🔥热播┃之家",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -257,7 +257,7 @@
       "name": "🐢达达龟┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -268,7 +268,7 @@
       "name": "🍃七新┃追剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -296,7 +296,7 @@
       "name": "🐀黑狐┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -307,7 +307,7 @@
       "name": "🥓孜然┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -318,7 +318,7 @@
       "name": "🧁奇优┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -329,7 +329,7 @@
       "name": "⌛爱看┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -340,7 +340,7 @@
       "name": "🕴农民┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -388,7 +388,7 @@
       "name": "💛全网┃短剧",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/duanju.jar",
+      "jar": "./jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -398,7 +398,7 @@
       "name": "💛短剧┃大全",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -553,7 +553,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "pg雲搜",
@@ -563,7 +563,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "pg盤搜",
@@ -573,7 +573,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "pg盤搜索",
@@ -583,7 +583,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "pg找資源",
@@ -593,7 +593,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./tvbox/tok.txt$$$test2$$$test2",
-      "jar": "./lib/pg.jar"
+      "jar": "./jar/pg.jar"
     },
     {
       "key": "88看球",
@@ -614,7 +614,7 @@
       "name": "🚌动漫┃巴士",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -625,7 +625,7 @@
       "name": "🚠维奇┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
+      "jar": "./jar/xbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -660,7 +660,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/相声小品.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "健身",
@@ -671,7 +671,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/健身.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "国学",
@@ -682,7 +682,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/国学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "地理",
@@ -693,7 +693,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/地理.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "科学",
@@ -704,7 +704,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/科学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "戏 曲",
@@ -715,7 +715,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/戏曲.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "兔小贝",
@@ -736,7 +736,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/外语.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "幼儿",
@@ -747,7 +747,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/幼儿.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "小学",
@@ -758,7 +758,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/小学.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "初中",
@@ -769,7 +769,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/初中.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "高中",
@@ -780,7 +780,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/高中.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -791,11 +791,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/哔哩哔哩.json",
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
     },
     {
-      "key": "xh",
-      "name": "🎯2023.1.16更新",
+      "key": "yz",
+      "name": "🎯2024.01.17更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
@@ -1022,7 +1022,7 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "spider": "./xhkw0111.jar",
+  "spider": "./jar/xhkw0116;md5;51df33046ac937b324d6473ae8d689ee.jar",
   "wallpaper": "http://酷玩.fun",
   "lives": [
     {
