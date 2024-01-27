@@ -21,7 +21,7 @@
       },
       "jar": "./jar/pg.jar",
       "api": "csp_Wogg",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/"
     },
     {
       "key": "玩偶哥哥",
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://api.wogg.xyz/$$$null$$$1",
+      "ext": "./tvbox/tok.txt$$$https://api.wogg.xyz/$$$null$$$1",
       "timeout": 60
     },
     {
@@ -41,7 +41,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+      "ext": "./tvbox/tok.txt",
       "jar": "./jar/pg.jar"
     },
     {
@@ -52,7 +52,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$https://wobge.run.goorm.io$$$1",
+      "ext": "./tvbox/tok.txt$$$https://wobge.run.goorm.io$$$1",
       "timeout": 60
     },
     {
