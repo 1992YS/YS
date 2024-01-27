@@ -440,7 +440,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
+      "ext": "./lib/pg.json$$$satoken=1550d531504a465097228354f56f32f9",
       "timeout": 60
     },
     {
@@ -511,7 +511,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+      "ext": "./tvbox/tok.txt+4k|fhd|auto"
     },
     {
       "key": "七夜",
@@ -521,7 +521,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+      "ext": "./tvbox/tok.txt+4k|fhd|auto"
     },
     {
       "key": "YiSo",
@@ -532,7 +532,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
     {
       "key": "PanSou",
@@ -542,7 +542,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
@@ -552,7 +552,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "ext": "./tvbox/tok.txt+4k|auto|fhd"
     },
     {
       "key": "88看球",
@@ -776,7 +776,7 @@
     },
     {
       "key": "yz",
-      "name": "🎯2024.01.16更新",
+      "name": "🎯2024.01.27更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
@@ -796,12 +796,12 @@
       "url": "Web"
     },
     {
-      "name": "🎯小盒解析",
+      "name": "🎯雨上解析",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
-      "name": "🎯酷玩解析",
+      "name": "🎯辰下解析",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
