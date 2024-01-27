@@ -8,7 +8,7 @@
 "vip_thread_limit":1,
 "quark_flags":"4kz|auto",
 "quark_is_vip":true,
-"aliproxy":"",
+"aliproxy":"./lib/aliproxy.gz",
 "proxy":"",
 "aliproxy_url":"./lib/aliproxy.gz",
 "open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
