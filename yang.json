@@ -392,7 +392,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/pg.json$$$./lib/4khdr.txt$$$1",
+      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
       "timeout": 60
     },
     {
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -416,7 +416,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/pg.json$$$https://dapanso.com$$$null"
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "xb七夜",
@@ -427,7 +427,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json$$$satoken=1550d531504a465097228354f56f32f9",
+      "ext": "./lib/tokenm.json$$$satoken=1550d531504a465097228354f56f32f9",
       "timeout": 60
     },
     {
@@ -451,7 +451,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -463,7 +463,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -475,7 +475,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -487,7 +487,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/pg.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -499,7 +499,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/pg.json$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "timeout": 60
     },
     {
@@ -775,7 +775,7 @@
     },
     {
       "key": "yz",
-      "name": "🎯2024.01.27更新",
+      "name": "🎯2024.02.19更新",
       "type": 3,
       "api": "csp_xh",
       "searchable": 0,
