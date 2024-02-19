@@ -366,7 +366,7 @@
       "name": "👘团长┃网盘",
       "type": 3,
       "api": "csp_TZFile",
-      "ext": "./lib/pg.json$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "quickSearch": 1,
       "changeable": 0,
       "timeout": 60
@@ -380,7 +380,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/pg.json$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "timeout": 60
     },
     {
