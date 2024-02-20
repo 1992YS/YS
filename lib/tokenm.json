@@ -13,7 +13,7 @@
 "quark_thread_limit":32,
 "quark_is_vip":false,
 "quark_vip_thread_limit":16,
-"quark_flags":"4kz|auto|2k",
+"quark_flags":"4kz|2k|super",
 "uc_thread_limit":0,
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
