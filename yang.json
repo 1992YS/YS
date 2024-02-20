@@ -366,7 +366,7 @@
       "name": "👘团长┃网盘",
       "type": 3,
       "api": "csp_TZFile",
-      "ext": "./lib/quark_cookie.txt$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "quickSearch": 1,
       "changeable": 0,
       "timeout": 60
@@ -380,7 +380,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/quark_cookie.txt$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "timeout": 60
     },
     {
@@ -392,7 +392,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/quark_cookie.txt$$$./lib/4khdr.txt$$$1",
+      "ext": "./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
       "timeout": 60
     },
     {
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/quark_cookie.txt",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
@@ -416,7 +416,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "./lib/quark_cookie.txt$$$https://dapanso.com$$$null"
+      "ext": "./lib/tokenm.json$$$https://dapanso.com$$$null"
     },
     {
       "key": "xb七夜",
@@ -499,7 +499,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "./lib/quark_cookie.txt$$$null$$$1",
+      "ext": "./lib/tokenm.json$$$null$$$1",
       "timeout": 60
     },
     {
