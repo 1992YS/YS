@@ -46,6 +46,29 @@
      "api":"./lib/drpy2.min.js",
      "ext":"./lib/tengxun.js"
      },
+    { 
+      "jar":"./jar/HeChengChaXiu.jar",
+      "key": "wogg",
+      "name": "👽玩偶阿里4K👽",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩偶哥哥.json",
+      "token":"./lib/tokenm.json"
+    },
+    { 
+      "jar":"./jar/HeChengChaXiu.jar",
+      "key": "wwgg",
+      "name": "👽玩我阿里4K👽",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩我哥哥.json"
+    },
     {
       "key": "玩偶",
       "name": "👽玩偶┃网盘",
