@@ -33,7 +33,8 @@
      "api":"./lib/drpy2.min.js",
      "ext":"./lib/mangguo.js"
      },
-     {"key":"优酷",
+     {
+     "key":"优酷",
      "name":"🐼优酷🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
