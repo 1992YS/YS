@@ -17,40 +17,35 @@
       "type": 3,
       "playerType": "2",
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/南瓜.js",
-      "jar":"./jar/迪哥.jar"
+      "ext": "./lib/南瓜.js"
     },
     {
     "key":"爱奇异",
      "name":"爱奇艺🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/aiqiyi.js",
-     "jar":"./jar/迪哥.jar"
+     "ext":"./lib/aiqiyi.js"
      },
     {
      "key":"芒果",
      "name":"芒果🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/mangguo.js",
-     "jar":"./jar/迪哥.jar"
+     "ext":"./lib/mangguo.js"
      },
      {
      "key":"优酷",
      "name":"优酷🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/youku.js",
-     "jar":"./jar/迪哥.jar"
+     "ext":"./lib/youku.js"
      },
     {
      "key":"腾讯",
      "name":"┃🐼腾讯🐼┃",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/tengxun.js",
-     "jar":"./jar/迪哥.jar"
+     "ext":"./lib/tengxun.js"
      },
     { 
       "jar":"./jar/HeChengChaXiu.jar",
