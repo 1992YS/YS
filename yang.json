@@ -11,6 +11,17 @@
       "filterable": 0,
       "ext": "./lib/douban.json"
     },
+    {     
+      "jar": "./jar/xbpq.jar",
+      "key": "奈飞",     
+      "name": "奈飞┃看剧",     
+      "type": 3,     
+      "api": "csp_XBPQ",     
+      "ext":
+     {
+      "分类url":"https://www.netflixgc.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类":"电影$1#电视剧$2#漫剧$3#片库$4"}
+     },
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
