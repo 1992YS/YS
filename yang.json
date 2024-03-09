@@ -24,28 +24,28 @@
      "name":"爱奇艺🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/aiqiyi.js"
+     "ext":"./lib/奇珍异兽.js"
      },
     {
      "key":"芒果",
      "name":"芒果🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/mangguo.js"
+     "ext":"./lib/百忙无果.js"
      },
      {
      "key":"优酷",
      "name":"优酷🐼(官)",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/youku.js"
+     "ext":"./lib/优酷.js"
      },
     {
      "key":"腾讯",
      "name":"┃🐼腾讯🐼┃",
      "type":3,
      "api":"./lib/drpy2.min.js",
-     "ext":"./lib/tengxun.js"
+     "ext":"./lib/腾云驾雾.js"
      },
     { 
       "jar":"./jar/HeChengChaXiu.jar",
