@@ -342,16 +342,6 @@
       "ext": "./lib/七新.json"
     },
     {
-      "key": "csp_CandyMuj_sstv",
-      "name": "📛速搜|TV",
-      "type": 3,
-      "api": "csp_CandyMuj_sstv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/pg.jar"
-    },
-    {
       "key": "saoho",
       "name": "🔥骚火┃电影",
       "type": 3,
