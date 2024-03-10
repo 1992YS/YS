@@ -224,8 +224,8 @@
     {
       "key": "花海",
       "name": "🌼花海┃影视",
-      "api": "csp_AppYsV2",
-      "jar": "./jar/pg0120.jar",
+      "api": "csp_AppYs",
+      "jar": "./jar/xhkw0116.jar",
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
