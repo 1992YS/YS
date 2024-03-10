@@ -222,15 +222,6 @@
       "ext": "./lib/墨鸦.json"
     },
     {
-      "key": "花海",
-      "name": "🌼花海┃影视",
-      "api": "csp_AppYs",
-      "jar": "./jar/xhkw0116.jar",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
-    {
       "key": "03",
       "name": "🧠零三┃影院",
       "type": 3,
