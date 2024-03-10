@@ -22,6 +22,17 @@
       "filterable": 1,
       "ext": "./lib/陀螺影视1.json"
     },
+    {
+      "key": "奈菲",
+      "name": "🥫奈菲┃视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/奈菲看剧1.json"
+    },
     {     
       "jar": "./jar/xbpq.jar",
       "key": "奈飞",     
