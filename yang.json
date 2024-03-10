@@ -195,16 +195,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-    {
-      "key": "996影院",
-      "name": "🥅996┃追剧",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "jar": "./jar/4_pg0120.jar",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
+   {
       "key": "csp_墨鸦",
       "name": "🦃墨鸦┃影视",
       "type": 3,
