@@ -186,13 +186,6 @@
       "ext": "./lib/free.json"
     },
     {
-      "key": "小胡",
-      "name": "🙆小胡┃影视",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://c.小胡.icu/api.php/provide/vod/"
-    },
-    {
       "key": "znjson",
       "name": "✂️ZNJ┃切片",
       "type": 3,
