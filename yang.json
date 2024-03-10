@@ -132,7 +132,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./lib/tokenm.json",
+      "ext": "./lib/tokenm.json"
     },
     {
       "key": "玩偶表哥",
