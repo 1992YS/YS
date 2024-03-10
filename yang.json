@@ -200,6 +200,7 @@
       "name": "🥅996┃追剧",
       "type": 3,
       "api": "csp_Cs1369",
+      "jar": "./jar/3_pg0120.jar",
       "searchable": 1,
       "changeable": 0
     },
