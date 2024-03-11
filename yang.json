@@ -49,8 +49,8 @@
       "name": "🎃┃南瓜┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/南瓜.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/南瓜.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
