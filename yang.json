@@ -44,7 +44,17 @@
       "filterable": 1,
       "ext": "./lib/007影视.json"
     },
-
+    {
+      "key": "电影港",
+      "name": "🥫电影港┃影视",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影港.json"
+    },
     {
       "key": "可可XYQ",
       "name": "🥫可可┃影视",
