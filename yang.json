@@ -135,8 +135,8 @@
       "name": "🎃┃荐片┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "./js/lib/drpy2.js",
-      "ext": "./js/荐片.js"
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./lib/荐片.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
