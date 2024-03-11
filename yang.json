@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "📦雨上┃辰下",
+      "name": "🐱‍🚀雨上┃辰下",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "新视觉",
-      "name": "🥫新视觉┃影视",
+      "name": "👀新视觉┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -24,7 +24,7 @@
     },
     {
       "key": "素白白",
-      "name": "🥫素白白┃影视",
+      "name": "👻素白白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -35,7 +35,7 @@
     },
     {
       "key": "子子",
-      "name": "🥫子子┃影视",
+      "name": "👹子子┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -46,7 +46,7 @@
     },
     {
       "key": "007",
-      "name": "🥫007┃影视",
+      "name": "🤡007┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
@@ -57,7 +57,7 @@
     },
     {
       "key": "电影港",
-      "name": "🥫电影港┃影视",
+      "name": "🐍电影港┃影视",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -68,7 +68,7 @@
     },
     {
       "key": "可可XYQ",
-      "name": "🥫可可┃影视",
+      "name": "🎈可可┃影视",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -79,7 +79,7 @@
     },
     {
       "key": "6vXYQ",
-      "name": "🥫6v┃影视",
+      "name": "🌻6v┃影视",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -91,7 +91,7 @@
 
     {
       "key":"csp_可可",
-      "name":"可可影视",
+      "name":"🍜可可影视",
       "type":3,
       "jar":"./jar/xbpq.jar",
       "api":"csp_XBPQ",
@@ -132,7 +132,7 @@
     },
     {
       "key": "荐片",
-      "name": "🎃┃荐片┃影视",
+      "name": "🚴‍♂️荐片┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
@@ -169,7 +169,7 @@
     { 
       "jar":"./jar/xyq.jar",
       "key": "wogg",
-      "name": "👽玩偶阿里4K👽",
+      "name": "👽玩偶阿里4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -181,7 +181,7 @@
     { 
       "jar":"./jar/xyq.jar",
       "key": "wwgg",
-      "name": "👽玩我阿里4K👽",
+      "name": "🎭玩我阿里4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
