@@ -280,6 +280,16 @@
       "quickSearch": 1,
       "changeable": 0
     },
+    {
+      "key": "fy",
+      "name": "🚀飞云┃切片",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./lib/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
    {
       "key": "csp_墨鸦",
       "name": "🦃墨鸦┃影视",
