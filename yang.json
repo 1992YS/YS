@@ -12,6 +12,17 @@
       "ext": "./lib/douban.json"
     },
     {
+      "key": "新视觉",
+      "name": "🥫新视觉┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/新视觉.json"
+    },
+    {
       "key": "子子",
       "name": "🥫子子┃影视",
       "type": 3,
