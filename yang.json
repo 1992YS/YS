@@ -139,6 +139,14 @@
       "ext": "./js/lib/FreeOK.js"
     },
     {
+      "key": "LIBVIO",
+      "name": "🍖LIBVIO",
+      "type": 3,
+      "playerType": "2",
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/lib/LIBVIO.js"
+    },
+    {
       "key": "荐片",
       "name": "🚴‍♂️荐片┃影视",
       "type": 3,
