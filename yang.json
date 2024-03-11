@@ -282,24 +282,6 @@
       "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
     },
     {
-      "key": "萌米",
-      "name": "🌮萌米┃TV",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": {
-        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
-        "ic": "",
-        "token": "",
-        "url": "http://app.mervod.com:9527",
-        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
-        "api": "/addons/apptov4/app.php/v1/",
-        "jar": "./jar/pg.jar"
-      }
-    },
-    {
       "key": "csp_热播",
       "name": "🔥热播┃之家",
       "type": 3,
@@ -348,25 +330,7 @@
       "api": "./js/lib/drpy2.min.js",
       "ext": "./lib/骚火电影.js"
     },
-    {
-      "key": "星奇",
-      "name": "🌟星奇┃TV",
-      "type": 3,
-      "api": "csp_Appto",
-      "playerType": 2,
-      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=",
-      "jar": "./jar/雨上.jar"
-    },
-    {
-      "key": "嘶哩",
-      "name": "🤺嘶哩┃动漫",
-      "type": 3,
-      "api": "csp_Skapp",
-      "playerType": 2,
-      "ext": "wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==",
-      "jar": "./jar/pg.jar"
-    },
-    {
+   {
       "key": "csp_农民",
       "name": "🕴农民┃影视",
       "type": 3,
@@ -387,6 +351,7 @@
       "filterable": 0
     },
     {
+      "jar": "./jar/xbpq.jar",
       "key": "横版影院",
       "name": "📺良子┃短剧",
       "type": 1,
