@@ -12,6 +12,18 @@
       "ext": "./lib/douban.json"
     },
     {
+      "key": "可可XYQ",
+      "name": "🥫可可┃影视",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/可可影视.json"
+    },
+
+    {
       "key":"csp_可可",
       "name":"可可影视",
       "type":3,
