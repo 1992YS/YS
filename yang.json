@@ -345,7 +345,7 @@
       "name": "🔥骚火┃电影",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "ext": "./lib/骚火电影.js"
     },
     {
