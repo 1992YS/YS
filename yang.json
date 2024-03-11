@@ -258,7 +258,7 @@
       "name": "🍾超前┃点播",
       "type": 3,
       "playerType": 1,
-      "api": ".js/lib/drpy2.min.js",
+      "api": "./js/lib/drpy2.min.js",
       "ext": "./lib/超前点播.js"
     },
     {
