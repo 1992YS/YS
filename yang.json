@@ -507,6 +507,17 @@
       "ext": "./lib/djdq.json"
     },
     {
+      "key": "csp_影视村",
+      "name": "🧮影视村┃短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/短剧影视村.json"
+    },
+    {
       "key": "团长影视",
       "name": "👘团长┃网盘",
       "type": 3,
