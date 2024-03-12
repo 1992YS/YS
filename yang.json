@@ -11,6 +11,16 @@
       "filterable": 0,
       "ext": "./lib/douban.json"
     },
+
+    {
+      "key": "Fangniu4k",
+      "name": "🕵影探•影视",
+      "type": 3,
+      "api": "csp_Fangniu4k",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./lib/zuixinfangniu.jar"
+    },
     {
       "key": "baipiaoys",
       "name": "白嫖┃影视",
