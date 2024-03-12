@@ -11,7 +11,6 @@
       "filterable": 0,
       "ext": "./lib/douban.json"
     },
-
     {
       "key": "Fangniu4k",
       "name": "🕵影探┃4K",
@@ -20,6 +19,93 @@
       "searchable": 1,
       "changeable": 0,
       "jar": "./jar/zuixinfangniu.jar"
+    },
+    {
+      "key": "电影港",
+      "name": "🐍电影港┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影港.json"
+    },
+    {
+      "key": "6vXYQ",
+      "name": "🌻6v磁力┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "./jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/6v.json"
+    },
+     { 
+      "jar":"./jar/xyq.jar",
+      "key": "wogg",
+      "name": "👽玩偶┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩偶哥哥.json",
+      "token":"./lib/tokenm.json"
+    },
+    { 
+      "jar":"./jar/xyq.jar",
+      "key": "wwgg",
+      "name": "🎭玩我┃4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩我哥哥.json"
+    },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶┃网盘",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "./jar/WoGG.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json+4k|auto|fhd$$$https://api.wogg.xyz/"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "🧙玩偶┃弹幕",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1",
+      "timeout": 60
+    },
+    {
+      "key": "玩偶妹妹",
+      "name": "🤡玩偶┃妹妹",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "玩偶表哥",
+      "name": "👹表哥┃网盘",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1",
+      "timeout": 60
     },
     {
       "key": "baipiaoys",
@@ -46,7 +132,6 @@
       },
       "jar": "https://123.155123.xyz/南风.jar"
         },
-
       {
        "key": "996", 
        "name": "👩‍🍳996影视",
@@ -104,17 +189,6 @@
       "ext": "./lib/007影视.json"
     },
     {
-      "key": "电影港",
-      "name": "🐍电影港┃影视",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/电影港.json"
-    },
-    {
       "key": "可可XYQ",
       "name": "🎈可可┃影视",
       "type": 3,
@@ -125,17 +199,7 @@
       "filterable": 1,
       "ext": "./lib/可可影视.json"
     },
-    {
-      "key": "6vXYQ",
-      "name": "🌻6v┃影视",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/6v.json"
-    },
+    
 
     {
       "key":"csp_可可",
@@ -230,71 +294,7 @@
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
-    { 
-      "jar":"./jar/xyq.jar",
-      "key": "wogg",
-      "name": "👽玩偶阿里4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩偶哥哥.json",
-      "token":"./lib/tokenm.json"
-    },
-    { 
-      "jar":"./jar/xyq.jar",
-      "key": "wwgg",
-      "name": "🎭玩我阿里4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩我哥哥.json"
-    },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶┃网盘",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./jar/WoGG.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json+4k|auto|fhd$$$https://api.wogg.xyz/"
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "🧙玩偶┃弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "玩偶妹妹",
-      "name": "🤡玩偶┃妹妹",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/tokenm.json"
-    },
-    {
-      "key": "玩偶表哥",
-      "name": "👹表哥┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1",
-      "timeout": 60
-    },
+   
     {
       "key": "NOAD",
       "name": "🥫NO┃视频",
