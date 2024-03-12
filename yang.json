@@ -53,6 +53,17 @@
       "filterable":1,
       "ext":"./lib/4KHDR.json"
       },
+     {
+       "key":"圣城影视",
+       "name":"🍤圣城┃2K",
+       "type":3,
+       "api":"csp_XBPQ",
+       "jar": "./jar/xbpq.jar",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":1,
+       "ext":"./lib/sc1080.json"
+       },
      { 
       "jar":"./jar/xyq.jar",
       "key": "wogg",
