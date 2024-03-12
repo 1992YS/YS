@@ -42,6 +42,17 @@
       "filterable": 1,
       "ext": "./lib/6v.json"
     },
+    {
+      "key":"4KHDR",
+      "name":"🍷HDR磁┃4K",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "jar": "./jar/xyq.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/4KHDR.json"
+      },
      { 
       "jar":"./jar/xyq.jar",
       "key": "wogg",
