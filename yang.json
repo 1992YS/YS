@@ -1010,7 +1010,17 @@
       "type": 1,      
       "api": "http://www.ttkx.site/api.php/provide/vod/"
     },
-     
+    {
+      "key": "csp_djtv",
+      "name": "💚短剧三",
+      "type": 3,"playerType":2,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/短剧.json"
+      },            
     {
       "key": "雨上",
       "name": "🎯2024.03.11更新",
