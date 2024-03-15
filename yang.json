@@ -1038,7 +1038,7 @@
       "name": "🧡短剧五",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/xyq.jar",
+      "jar": "./jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1127,7 +1127,42 @@
         "分类": "短剧$20"
       }
     },
-                
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "💚短剧八",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "姐姐",
+      "name": "💜短剧九",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dytt996.com/api.php/app/"
+    },
+    {
+      "key": "csp_AppYsV2_Mxone",
+      "name": "🧡短剧十",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },            
     {
       "key": "雨上",
       "name": "🎯2024.03.11更新",
