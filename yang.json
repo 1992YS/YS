@@ -80,6 +80,17 @@
       "filterable": 1,
       "jar": "./jar/jiaoyu.jar"
       },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲┃SeedHub┃4k",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": ""
+      },
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
