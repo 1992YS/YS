@@ -12,13 +12,13 @@
       "ext": "./lib/douban.json"
     },
     {
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":"./lib/tokenm.json"
+		  "key": "网盘配置",
+		  "name": "网盘及彈幕配置",
+	    "type": 3,
+		  "api": "csp_Config",
+		  "searchable": 0,
+		  "changeable": 0,
+		  "ext":"./lib/tokenm.json"
 		},
     {
       "key": "Fangniu4k",
@@ -96,27 +96,15 @@
         "ext": "https://bo.czys.me"
       },
      { 
-      "jar":"./jar/xyq.jar",
       "key": "wogg",
       "name": "👽玩偶┃4K",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_wogg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./lib/玩偶哥哥.json",
       "token":"./lib/tokenm.json"
-    },
-    { 
-      "jar":"./jar/xyq.jar",
-      "key": "wwgg",
-      "name": "🎭玩我┃4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩我哥哥.json"
     },
     {
       "key": "玩偶",
@@ -1180,7 +1168,7 @@
     },            
     {
       "key": "雨上",
-      "name": "🎯2024.03.15更新",
+      "name": "🎯2024.03.17更新",
       "type": 3,
       "api": "csp_雨上",
       "searchable": 0,
