@@ -62,6 +62,14 @@
       "filterable":1,
       "ext":"./lib/4KHDR.json"
       },
+    {
+      "key": "小胡",
+      "name": "🔥小胡┃4K",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+      "jar": "./jar/小胡.jar"
+    },
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
