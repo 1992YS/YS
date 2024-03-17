@@ -70,6 +70,16 @@
       "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
       "jar": "http://xiaohu.xzam.cn/jar/1.jar"
     },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲┃Mp4┃4k",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/jiaoyu.jar"
+      },
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
