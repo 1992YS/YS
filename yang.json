@@ -95,17 +95,6 @@
         "filterable": 1,
         "ext": "https://bo.czys.me"
       },
-     { 
-      "key": "wogg",
-      "name": "👽玩偶┃4K",
-      "type": 3,
-      "api": "csp_wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩偶哥哥.json",
-      "token":"./lib/tokenm.json"
-    },
     {
       "key": "玩偶",
       "name": "👽玩偶┃网盘",
