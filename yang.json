@@ -38,10 +38,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"http://cms-yttv.lyyytv.cn/api.php/app/"
-      },
+    },
     {
       "key": "csp_appys_影盒",
-      "name": "❤影探|4K",
+      "name": "❤影探备用|4K",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -81,7 +81,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./lib/4KHDR.json"
-      },
+    },
     {
       "key": "小胡",
       "name": "🔥小胡┃4K",
@@ -98,7 +98,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/jiaoyu.jar"
-      },
+    },
     {
       "key": "csp_SeedHub",
       "name": "🧲┃SeedHub┃4k",
@@ -109,40 +109,40 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": ""
-      },
-     {
-       "key":"圣城影视",
-       "name":"🍤圣城┃2K",
-       "type":3,
-       "api":"csp_XBPQ",
-       "jar": "./jar/xbpq.jar",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"./lib/sc1080.json"
-       },
-      {
-        "key":"速映影视",
-        "name":"🏍速映┃2K",
-        "type":3,
-        "api":"csp_XBPQ",
-        "jar": "./jar/xbpq.jar",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"./lib/suying.json"
-        },
-      {
-        "key": "厂长",
-        "name": "🎦厂长┃2K",
-        "type": 3,
-        "api": "csp_Czsapp",
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://bo.czys.me"
-      },
+    },
+    {
+      "key":"圣城影视",
+      "name":"🍤圣城┃2K",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/sc1080.json"
+    },
+    {
+      "key":"速映影视",
+      "name":"🏍速映┃2K",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/suying.json"
+    },
+    {
+      "key": "厂长",
+      "name": "🎦厂长┃2K",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bo.czys.me"
+    },
     {
       "key": "玩偶",
       "name": "👽玩偶┃网盘",
@@ -238,18 +238,18 @@
       },
       "jar": "https://123.155123.xyz/南风.jar"
         },
-      {
-       "key": "996", 
-       "name": "👩‍🍳996影视",
-       "type": 3, 
-       "filterable":1, 
-       "api": "csp_XBPQ",
-       "ext": 
-       { 
-       "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-       "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}, 
-       "jar": "./jar/xbpq.jar"
-       },
+    {
+      "key": "996", 
+      "name": "👩‍🍳996影视",
+      "type": 3, 
+      "filterable":1, 
+      "api": "csp_XBPQ",
+      "ext": 
+      { 
+      "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}, 
+      "jar": "./jar/xbpq.jar"
+      },
     {
       "key": "新视觉",
       "name": "👀新视觉┃影视",
@@ -305,11 +305,9 @@
       "filterable": 1,
       "ext": "./lib/可可影视.json"
     },
-    
-
     {
       "key":"csp_可可",
-      "name":"🍜可可影视",
+      "name":"🍜可可┃影视",
       "type":3,
       "jar":"./jar/xbpq.jar",
       "api":"csp_XBPQ",
@@ -329,7 +327,7 @@
       "播放链接":"href=\"&&\"",
       "分类url":"https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
       "分类":"电影$1#剧集$2#动漫$3#综艺纪录$4#短剧$6"}},
-     {
+    {
       "key": "陀螺",
       "name": "🥫陀螺┃视频",
       "type": 3,
@@ -350,7 +348,7 @@
     },
     {
       "key": "FreeOK",
-      "name": "😋FreeOK",
+      "name": "😋FreeOK┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
@@ -358,7 +356,7 @@
     },
     {
       "key": "LIBVIO",
-      "name": "🍖LIBVIO",
+      "name": "🍖LIBVIO┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
@@ -374,35 +372,35 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "🐼奇珍异兽🐼",
+      "name": "💖奇艺┃官网",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "🐼优酷🐼",
+      "name": "👖优酷┃官网",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "🐼腾云驾雾🐼",
+      "name": "🐧腾讯┃官网",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "🐼百忙无果🐼",
+      "name": "🌰芒果┃官网",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
    {
       "key": "drpy_js_360影视",
-      "name": "🧡360┃官源",
+      "name": "🌎360┃官源",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/360影视.js"
@@ -1029,7 +1027,6 @@
       "changeable": 0,
       "ext": true
     },
-
     {
       "key": "T4-yinyuetai",
       "name": "音悦台",
@@ -1067,7 +1064,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/短剧.json"
-      },
+    },
     {
       "key": "PT",
       "name": "💙短剧四",
@@ -1075,10 +1072,10 @@
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
       "ext": {
-        "数组": "class=\"stui-vodlist__box&&</li",
-        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
-        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
-      }
+      "数组": "class=\"stui-vodlist__box&&</li",
+      "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+      "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+    }
     },
     {
       "key": "csp_短剧网香",
@@ -1170,9 +1167,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
-        "分类": "短剧$20"
-      }
+      "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+      "分类": "短剧$20"
+    }
     },
     {
       "key": "csp_XBPQ_vstv",
@@ -1184,9 +1181,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-      }
+      "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+    }
     },
     {
       "key": "姐姐",
@@ -1211,7 +1208,7 @@
     },            
     {
       "key": "雨上",
-      "name": "🎯2024.03.17更新",
+      "name": "🎯2024.03.18更新",
       "type": 3,
       "api": "csp_雨上",
       "searchable": 0,
