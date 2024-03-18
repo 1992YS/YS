@@ -107,8 +107,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": ""
+      "filterable": 1
     },
     {
       "key":"圣城影视",
@@ -998,7 +997,6 @@
       "type": 4,
       "api": "https://catbox.n13.club/yyy.php"
     },
-
     {
       "key": "xuexi",
       "name": "线路|学习",
@@ -1057,7 +1055,8 @@
     {
       "key": "csp_djtv",
       "name": "💚短剧三",
-      "type": 3,"playerType":2,
+      "type": 3,
+      "playerType":2,
       "api": "csp_XBPQ",
       "jar": "./jar/xbpq.jar",
       "searchable": 1,
