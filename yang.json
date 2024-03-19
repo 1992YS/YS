@@ -938,8 +938,7 @@
       "ext": "./lib/哔哩哔哩.json",
       "jar": "./jar/jiaoyu.jar"
     },
-	  
-    {
+	  {
       "key": "yinyue",
       "name": "线路|音乐",
       "type": 4,
@@ -967,7 +966,6 @@
       "changeable": 0,
       "ext": true
     },
-
     {
       "key": "T4-yinyuetai",
       "name": "音悦台",
