@@ -986,7 +986,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": true
+      "ext": "true"
     },
     {
       "key": "T4-nangua",
@@ -997,7 +997,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": true
+      "ext": "true"
     },
     {
       "key": "T4-yinyuetai",
@@ -1008,7 +1008,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": true
+      "ext": "true"
     },
     { 
       "key": "横版影院", 
