@@ -69,6 +69,26 @@
       "filterable":1,
       "ext":"./lib/4KHDR.json"
       },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲mp4┃4k",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/jiaoyu.jar"
+      },
+    {
+      "key": "csp_SeedHub",
+      "name": "🧲seedHub┃4k",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
