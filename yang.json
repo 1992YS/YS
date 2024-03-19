@@ -30,6 +30,13 @@
       "jar": "./jar/zuixinfangniu.jar"
     },
     {
+      "key": "影探",
+      "name": "4K—影探┃影视",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/yt.js"
+    },
+    {
       "key": "电影港",
       "name": "🐍电影港┃4K",
       "type": 3,
