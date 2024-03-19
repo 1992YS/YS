@@ -261,7 +261,7 @@
 
     {
       "key":"csp_可可",
-      "name":"🍜可可影视",
+      "name":"🍜可可┃影视",
       "type":3,
       "jar":"./jar/xbpq.jar",
       "api":"csp_XBPQ",
@@ -294,7 +294,7 @@
     },
    {
       "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
+      "name": "🎃南瓜┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
@@ -302,7 +302,7 @@
     },
     {
       "key": "FreeOK",
-      "name": "😋FreeOK",
+      "name": "😋Free┃OK",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
@@ -310,7 +310,7 @@
     },
     {
       "key": "LIBVIO",
-      "name": "🍖LIBVIO",
+      "name": "🍖LIBVIO┃影视",
       "type": 3,
       "playerType": "2",
       "api": "./js/lib/drpy2.min.js",
