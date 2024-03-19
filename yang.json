@@ -77,7 +77,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/jiaoyu.jar"
+      "jar": "./jar/jiaoyu.jar"
       },
     {
       "key": "csp_SeedHub",
