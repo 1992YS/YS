@@ -20,25 +20,8 @@
       "changeable": 0,
       "ext":"./lib/tokenm.json"
     },
-    {
-      "key": "Fangniu4k",
-      "name": "🕵影探┃4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/zuixinfangniu.jar"
-    },
-    {
-      "key": "csp_appys_影盒",
-      "name": "❤影探主接口|4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"http://cms-yttv.lyyytv.cn/api.php/app/"
-    },
+    
+   
     
     {
       "key": "电影港",
