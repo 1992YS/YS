@@ -39,16 +39,7 @@
       "filterable": 1,
       "ext":"http://cms-yttv.lyyytv.cn/api.php/app/"
     },
-    {
-      "key": "csp_appys_影盒",
-      "name": "❤影探备用|4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"./lib/yt.json"
-    },
+    
     {
       "key": "电影港",
       "name": "🐍电影港┃4K",
