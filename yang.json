@@ -165,6 +165,17 @@
       "timeout": 60
     },
     {
+      "key": "苹果",
+      "timeout": "🍎小苹果影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/fan.jar"
+      },
+    {
      "key": "777",
      "name": "👿777┃影视",
      "type": 3,
