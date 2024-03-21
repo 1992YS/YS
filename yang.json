@@ -166,7 +166,7 @@
     },
     {
       "key": "苹果",
-      "timeout": "🍎小苹果影视",
+      "name": "🍎小苹果影视",
       "type": 3,
       "api": "csp_LiteApple",
       "playerType": 1,
