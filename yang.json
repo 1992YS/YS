@@ -203,6 +203,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {"key":"csp_lwdy","name":"老王电影","type":3,"api":"csp_XBPQ",
+    "jar": "./jar/xbpq.jar",
+    "ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
+
     {
       "key": "baipiaoys",
       "name": "😋白嫖┃影视",
