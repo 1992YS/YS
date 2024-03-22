@@ -228,31 +228,6 @@
       "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"}
       },
     {
-      "key": "baipiaoy",
-      "name": "😋xyz┃影视",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": 
-      {
-      "主页url": "http://yz.077911.xyz/",
-      "副标题": "pic-text text-right\">&&</b>",
-      "搜索模式": "1",
-      "搜索url": "http://yz.077911.xyz/search.html?wd={wd}",
-      "图片": "data-original=\"&&\"",
-      "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-      "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-      "导演": "导演：&&</div>",
-      "主演": "主演：&&</div>",
-      "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$5",
-      "分类url": "http://yz.077911.xyz/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      },
-      "jar": "./jar/xbpq.jar"
-        },
-      {
        "key": "996", 
        "name": "👩‍🍳996┃影视",
        "type": 3, 
