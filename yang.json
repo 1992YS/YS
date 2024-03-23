@@ -127,7 +127,7 @@
       "name": "👽玩偶┃网盘",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jar/WoGG.jar",
+      "jar": "./jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
