@@ -224,6 +224,17 @@
       "changeable": 1
     },
     {
+      "key": "免费影视分享大全",
+      "name": "🐓分享┃推荐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/影视分享.json"
+      },
+    {
       "key":"csp_lwdy",
       "name":"👺老王┃电影",
       "type":3,
