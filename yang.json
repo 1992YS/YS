@@ -37,6 +37,16 @@
       "ext": "./js/yt.js"
     },
     {
+      "key":"地瓜妹妹",
+      "name":"🐟摸鱼4K┃影视",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://www.qiqiguai.cn/api.php/app/"
+    },
+    {
       "key": "电影港",
       "name": "🐍电影港┃4K",
       "type": 3,
