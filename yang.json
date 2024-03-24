@@ -462,6 +462,13 @@
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
+    {
+      "key": "drpy_js_360",
+      "name": "🧿360┃官网",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "ext": "./js/360影视.js"
+    },
    {
       "key": "NOAD",
       "name": "🥫NO┃视频",
