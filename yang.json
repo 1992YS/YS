@@ -225,7 +225,7 @@
     },
     {
       "key":"csp_lwdy",
-      "name":"👺老王电影",
+      "name":"👺老王┃电影",
       "type":3,
       "api":"csp_XBPQ",
       "jar": "./jar/xbpq.jar",
