@@ -1,7 +1,7 @@
 {
     "站名": "996白嫖ys",
     "主页url": "https://www.baipiaotv.com",
-    "分类": "动漫$1#电影$2#连续剧$3#综艺$4#",
+    "分类": "动漫$1#电影$2#连续剧$3#综艺$4",
     "搜索url": "https://www.baipiaotv.com/search.html?wd={wd}",
     "分类url": "https://www.baipiaotv.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
 }
