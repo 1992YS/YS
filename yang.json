@@ -245,6 +245,16 @@
       "ext": "http://cms-yttv.lyyytv.cn/api.php/app/"
     },
     {
+      "key": "人人",
+      "name": "🕵️‍♂️人人┃影视",
+      "type": 3,
+      "api": "./js/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./js/人人影视.js"
+    },
+    {
       "key":"csp_lwdy",
       "name":"👺老王┃电影",
       "type":3,
