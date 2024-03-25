@@ -175,6 +175,17 @@
       "timeout": 60
     },
     {
+      "key":"影视车",
+      "name":"影视车|网盘",
+      "type":3,
+      "api":"csp_Wogg",
+      "quickSearch":1,
+      "changeable":1, 
+      "filterable":1, 
+      "timeout":60,
+      "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"
+    },
+    {
       "key": "苹果",
       "name": "🍎小苹果影视",
       "type": 3,
