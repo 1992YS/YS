@@ -99,6 +99,18 @@
       "quickSearch": 1,
       "filterable": 1
       },
+    {
+      "key":"drpy_js_磁力熊",
+      "name":"🐂磁力熊┃索引",
+      "type":3,
+      "api":"./js/lib/drpy2.min.js",
+      "ext":"./js/cilixiongp.js",
+      "playerType":"1", 
+      "searchable":0, 
+      "quickSearch":0, 
+      "changeable":1,
+			"indexs":1
+		},
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
