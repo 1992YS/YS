@@ -112,15 +112,15 @@
 			"indexs":1
 		},
     {
-			"key": "Bdys_spider",
-			"name": "🧩哔滴┃磁力",
-			"api": "csp_Bdys01",
-			"type": 3,
-			"filterable": 1,
-			"searchable":1,
-			"quickSearch": 1,
-			"ext": "https://www.bdys10.com/$$$null$$$1"
-		},
+      "key": "Bdys_spider",
+      "name": "🧩哔滴┃磁力",
+      "api": "csp_Bdys01",
+      "type": 3,
+      "filterable": 1,
+      "searchable":1,
+      "quickSearch": 1,
+      "ext": "https://www.bdys10.com/$$$null$$$1"
+    },
     {
       "key":"drpy_js_酷吧",
       "name":"酷吧[js]|磁",
