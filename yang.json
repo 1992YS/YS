@@ -111,6 +111,16 @@
       "changeable":1,
 			"indexs":1
 		},
+    {
+			"key": "Bdys_spider",
+			"name": "🧩哔滴┃磁力",
+			"api": "csp_Bdys01",
+			"type": 3,
+			"filterable": 1,
+			"searchable":1,
+			"quickSearch": 1,
+			"ext": "https://www.bdys10.com/$$$null$$$1"
+		},
      {
        "key":"圣城影视",
        "name":"🍤圣城┃2K",
