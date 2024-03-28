@@ -451,17 +451,6 @@
       "播放链接":"href=\"&&\"",
       "分类url":"https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
       "分类":"电影$1#剧集$2#动漫$3#综艺纪录$4#短剧$6"}},
-     {
-      "key": "陀螺",
-      "name": "🥫陀螺┃视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/陀螺影视.json"
-    },
    {
       "key": "nangua",
       "name": "🎃南瓜┃影视",
