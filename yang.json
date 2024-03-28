@@ -37,14 +37,6 @@
       "ext": "./js/yt.js"
     },
     {
-      "key": "小胡",
-      "name": "🔥小胡┃4K",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
-      "jar": "./jar/xbpq.jar"
-    },
-    {
       "key":"地瓜4K",
       "name":"🦚地瓜┃臻享",
       "type":3,
