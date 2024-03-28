@@ -235,7 +235,7 @@
       },
     {
       "key":"影视车",
-      "name":"影视车|网盘",
+      "name":"🛵影视车|网盘",
       "type":3,
       "api":"csp_Wogg",
       "quickSearch":1,
@@ -324,16 +324,6 @@
       "filterable": 1,
       "ext":"./js/人人影视.js"
     },
-    {
-      "key":"csp_lwdy",
-      "name":"👺老王┃电影",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "./jar/xbpq.jar",
-      "ext":
-      {"分类url":"https://www.laowang.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-      "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
-
     {
       "key": "baipiaoys",
       "name": "😋白嫖┃影视",
