@@ -31,7 +31,7 @@
     },
     {
       "key": "影探",
-      "name": "🍀4K—影探┃影视",
+      "name": "🍀4K影探┃影视",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/yt.js"
@@ -123,7 +123,7 @@
     },
     {
       "key":"drpy_js_酷吧",
-      "name":"酷吧[js]|磁",
+      "name":"🎨酷吧|磁力",
       "type":3,
       "api":"./js/lib/drpy2.min.js",
       "ext":"./js/kuba.js", 
@@ -133,7 +133,7 @@
     },
     {
       "key":"BLSGod",
-      "name":"BLSGod|磁",
+      "name":"🎡BLSGod|磁力",
       "type":3,
       "api":"csp_BLSGod",
       "changeable":1, 
@@ -141,7 +141,7 @@
     },
     {
       "key":"Xunlei8",
-      "name":"Xunlei8|磁",
+      "name":"🧬Xunlei8|磁",
       "type":3,
       "api":"csp_Xunlei8",
       "changeable":1, 
@@ -1324,7 +1324,7 @@
     },            
     {
       "key": "雨上",
-      "name": "🎯2024.03.19更新",
+      "name": "🎯2024.03.28更新",
       "type": 3,
       "api": "csp_雨上",
       "searchable": 0,
