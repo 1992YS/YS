@@ -331,7 +331,7 @@
       "api":"csp_XBPQ",
       "jar": "./jar/xbpq.jar",
       "ext":
-      {"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+      {"分类url":"https://www.laowang.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
       "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
 
     {
