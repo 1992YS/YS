@@ -382,7 +382,17 @@
       "filterable": 1,
       "ext": "./lib/白嫖.json"
     },
-
+    {
+      "key": "白嫖",
+      "name": "🎞电影┃天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影天堂.json"
+    },
     {
       "key": "素白白",
       "name": "👻素白白┃影视",
