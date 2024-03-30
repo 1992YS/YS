@@ -306,8 +306,18 @@
       "jar":"./jar/xbpq.jar",
       "ext": {
       "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$21",
-      "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
-    }
+      "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"}
+    },
+    {
+      "key": "天龙影视",
+      "name": "🐉天龙✪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./lib/天龙影视.json"
     },
     {
       "key": "一起看 ",
