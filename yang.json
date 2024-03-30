@@ -295,6 +295,20 @@
       "changeable": 1
     },
     {
+      "key": "耐看点播",
+      "name": "耐看点播",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+      "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$21",
+      "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
+    }
+    },
+    {
       "key": "一起看 ",
       "name": "🎉一起┃App",
       "type": 3,
