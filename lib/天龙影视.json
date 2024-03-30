@@ -1,6 +1,6 @@
 {
-    "主页url":"http://www.123mao.com/",
-    "二次截取": "部页次&&部页次",
+  "主页url":"http://www.123mao.com/",
+  "二次截取": "部页次&&部页次",
 	"数组": "<li>&&分类",
 	"副标题": "状态：&&<BR>",
 	"图片": "src=\"&&\"",
@@ -24,12 +24,12 @@
 	"播放列表": "<a&&</a >",
 	"播放标题":"title='&&'",
 	"播放链接": "javascript:OpenWindow3('&&',window)",
-    "跳转播放链接数组": "<script type=\"text/javascript\">&&</script>",
-	"跳转播放链接": "http://cdn.113276.xyz/cs1/?id=+url\":\"&&\"",
+"跳转播放链接数组": "<script type=\"text/javascript\">&&</script>",
+"跳转播放链接": "http://cdn.113276.xyz/cs1/?id=+url\":\"&&\"",
 "二次跳转播放链接": "http://cdn.113276.xyz/cs1/url.php;post;id=+var vid=\"&&\"",
 "三次跳转播放链接": "url\"*\"&&\"",
-    "分类":"国产剧$9#电影$17#连续剧$18#综艺$20#动漫$48#经典$16",
-    "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"分类":"国产剧$9#电影$17#连续剧$18#综艺$20#动漫$48#经典$16",
+"播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "分类url":"http://www.123mao.com/List/{cateId}--------{catePg}---{year}.html",
  "筛选":{
 "17":[
@@ -45,7 +45,7 @@
  
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
-    {"n":"2024","v":"2024"},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
@@ -91,5 +91,5 @@
   {"n":"2006","v":"2006"},
   {"n":"2005","v":"2005"},
   {"n":"2004","v":"2004"}]}]}
-       }
-        }
+  }
+  }
