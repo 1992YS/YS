@@ -320,6 +320,17 @@
       "ext":"./lib/天龙影视.json"
     },
     {
+      "key":"木耳资源",
+      "name":"🤠木耳✪资源",
+      "type": 3,
+      "api":"csp_XBPQ",
+      "jar":"./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./lib/木耳资源.json"
+    },
+    {
       "key": "一起看 ",
       "name": "🎉一起┃App",
       "type": 3,
