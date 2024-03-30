@@ -255,16 +255,17 @@
       "changeable": 1,
       "jar": "./jar/fan.jar"
       },
-      {
-        "key": "金鱼影视",
-        "name": "🐋金鱼影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext":＂./lib/金鱼影视.json＂
-      }
+    {
+      "key": "金鱼影视",
+      "name": "🐋金鱼影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"./jar/xbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"./lib/金鱼影视.json"
+    },
     {
       "key":"鸭奈飞",
       "name":"😎奈飞┃影视",
