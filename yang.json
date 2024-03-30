@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🏄‍♂️雨上┃辰下",
+      "name": "🏄‍♂️雨上✪辰下",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -22,7 +22,7 @@
     },
     {
       "key": "Fangniu4k",
-      "name": "🕵影探┃4K",
+      "name": "🕵影探✪4K",
       "type": 3,
       "api": "csp_Fangniu4k",
       "searchable": 1,
@@ -31,14 +31,14 @@
     },
     {
       "key": "影探",
-      "name": "🍀4K影探┃影视",
+      "name": "🍀4K影探✪影视",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/yt.js"
     },
     {
       "key":"地瓜4K",
-      "name":"🦚地瓜┃臻享",
+      "name":"🦚地瓜✪臻享",
       "type":3,
       "api":"csp_AppYsV2",
       "searchable":1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "电影港",
-      "name": "🐍电影港┃4K",
+      "name": "🐍电影港✪4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -59,7 +59,7 @@
     },
     {
       "key": "6vXYQ",
-      "name": "🌻6v磁力┃4K",
+      "name": "🌻6v磁力✪4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -70,7 +70,7 @@
     },
     {
       "key":"4KHDR",
-      "name":"🍷HDR磁┃4K",
+      "name":"🍷HDR磁✪4K",
       "type":3,
       "api":"csp_XYQHikerAL",
       "jar": "./jar/xyq.jar",
@@ -81,7 +81,7 @@
       },
     {
       "key": "csp_Mp4Mov",
-      "name": "🧲mp4┃4k",
+      "name": "🧲mp4✪4k",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -91,7 +91,7 @@
       },
     {
       "key": "csp_SeedHub",
-      "name": "🧲seedHub┃4k",
+      "name": "🧲seed✪4k",
       "type": 3,
       "api": "csp_SeedHub",
       "playerType": 1,
@@ -101,7 +101,7 @@
       },
     {
       "key":"drpy_js_磁力熊",
-      "name":"🐂磁力熊┃索引",
+      "name":"🐂磁力熊✪索引",
       "type":3,
       "api":"./js/lib/drpy2.min.js",
       "ext":"./js/cilixiongp.js",
@@ -113,7 +113,7 @@
 		},
     {
       "key": "Bdys_spider",
-      "name": "🧩哔滴┃磁力",
+      "name": "🧩哔滴✪磁力",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key":"drpy_js_酷吧",
-      "name":"🎨酷吧┃磁力",
+      "name":"🎨酷吧✪磁力",
       "type":3,
       "api":"./js/lib/drpy2.min.js",
       "ext":"./js/kuba.js", 
@@ -133,7 +133,7 @@
     },
     {
       "key":"BLSGod",
-      "name":"🎡BLSGod┃磁力",
+      "name":"🎡BLSGod✪磁力",
       "type":3,
       "api":"csp_BLSGod",
       "changeable":1, 
@@ -141,7 +141,7 @@
     },
     {
       "key":"Xunlei8",
-      "name":"🧬Xunlei8┃磁",
+      "name":"🧬迅雷✪磁力",
       "type":3,
       "api":"csp_Xunlei8",
       "changeable":1, 
@@ -149,7 +149,7 @@
     },
      {
        "key":"圣城影视",
-       "name":"🍤圣城┃2K",
+       "name":"🍤圣城✪2K",
        "type":3,
        "api":"csp_XBPQ",
        "jar": "./jar/xbpq.jar",
@@ -160,7 +160,7 @@
        },
       {
         "key":"速映影视",
-        "name":"🏍速映┃2K",
+        "name":"🏍速映✪2K",
         "type":3,
         "api":"csp_XBPQ",
         "jar": "./jar/xbpq.jar",
@@ -171,7 +171,7 @@
         },
       {
         "key": "厂长",
-        "name": "🎦厂长┃2K",
+        "name": "🎦厂长✪2K",
         "type": 3,
         "api": "csp_Czsapp",
         "playerType": 2,
@@ -182,7 +182,7 @@
       },
     {
       "key": "玩偶",
-      "name": "👽玩偶┃网盘",
+      "name": "👽玩偶✪网盘",
       "type": 3,
       "api": "csp_WoGG",
       "jar": "./jar/fty.jar",
