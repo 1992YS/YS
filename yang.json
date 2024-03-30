@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🏄‍♂️雨上✪辰下",
+      "name": "🏄‍♂️雨上‖辰下",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -22,7 +22,7 @@
     },
     {
       "key": "Fangniu4k",
-      "name": "🕵影探✪4K",
+      "name": "🕵影探‖4K",
       "type": 3,
       "api": "csp_Fangniu4k",
       "searchable": 1,
@@ -31,14 +31,14 @@
     },
     {
       "key": "影探",
-      "name": "🍀4K影探✪影视",
+      "name": "🍀4K影探‖影视",
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/yt.js"
     },
     {
       "key":"地瓜4K",
-      "name":"🦚地瓜✪臻享",
+      "name":"🦚地瓜‖臻享",
       "type":3,
       "api":"csp_AppYsV2",
       "searchable":1,
