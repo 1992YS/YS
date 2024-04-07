@@ -46,17 +46,7 @@
       "filterable":1,
       "ext":"https://www.qiqiguai.cn/api.php/app/"
     },
-    {
-      "key": "电影港",
-      "name": "🐍电影港♦4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "./jar/xyq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/电影港.json"
-    },
+
     {
       "key": "6vXYQ",
       "name": "🌻6v磁力♦4K",
