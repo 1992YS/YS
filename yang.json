@@ -21,22 +21,6 @@
       "ext":"./lib/tokenm.json"
     },
     {
-      "key": "Fangniu4k",
-      "name": "🕵影探♦4K",
-      "type": 3,
-      "api": "csp_Fangniu4k",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/zuixinfangniu.jar"
-    },
-    {
-      "key": "影探",
-      "name": "🍀4K影探♦影视",
-      "type": 3,
-      "api": "./js/lib/drpy2.min.js",
-      "ext": "./js/yt.js"
-    },
-    {
       "key":"地瓜4K",
       "name":"🦚地瓜♦臻享",
       "type":3,
@@ -46,7 +30,6 @@
       "filterable":1,
       "ext":"https://www.qiqiguai.cn/api.php/app/"
     },
-
     {
       "key": "6vXYQ",
       "name": "🌻6v磁力♦4K",
@@ -99,8 +82,8 @@
       "searchable":0, 
       "quickSearch":0, 
       "changeable":1,
-			"indexs":1
-		},
+      "indexs":1
+    },
     {
       "key": "Bdys_spider",
       "name": "🧩哔滴♦磁力",
@@ -137,30 +120,30 @@
       "changeable":1, 
       "timeout":60
     },
-     {
-       "key":"圣城影视",
-       "name":"🍤圣城♦2K",
-       "type":3,
-       "api":"csp_XBPQ",
-       "jar": "./jar/xbpq.jar",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"./lib/sc1080.json"
-       },
-      {
-        "key":"速映影视",
-        "name":"🏍速映♦2K",
-        "type":3,
-        "api":"csp_XBPQ",
-        "jar": "./jar/xbpq.jar",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"./lib/suying.json"
-        },
-      {
-        "key": "厂长",
+    {
+      "key":"圣城影视",
+      "name":"🍤圣城♦2K",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/sc1080.json"
+    },
+    {
+      "key":"速映影视",
+      "name":"🏍速映♦2K",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "./jar/xbpq.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/suying.json"
+    },
+    {
+      "key": "厂长",
         "name": "🎦厂长♦2K",
         "type": 3,
         "api": "csp_Czsapp",
@@ -169,7 +152,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://bo.czys.me"
-      },
+    },
     {
       "key": "玩偶",
       "name": "👽玩偶♦网盘",
