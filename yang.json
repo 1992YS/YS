@@ -1,5 +1,6 @@
 {
   "warningText": "雨上辰下提醒：每次使用前记得长按主页刷新接口",
+  "logo":"./lib/logo.gif",
   "sites": [
     {
       "key": "豆瓣",
