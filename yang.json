@@ -1140,45 +1140,6 @@
       "ext": "./lib/哔哩哔哩.json",
       "jar": "./jar/jiaoyu.jar"
     },
-	  {
-      "key": "yinyue",
-      "name": "线路|音乐",
-      "type": 4,
-      "api": "https://catbox.n13.club/yyy.php"
-    },
-    {
-      "key": "T4-duanju",
-      "name": "线路|短剧",
-      "type": 4,
-      "api": "https://catbox.n13.club/duanju.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
-    {
-      "key": "T4-nangua",
-      "name": "南瓜电影",
-      "type": 4,
-      "api": "https://catbox.n13.club/nangua.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
-    {
-      "key": "T4-yinyuetai",
-      "name": "音悦台",
-      "type": 4,
-      "api": "https://catbox.n13.club/yyt.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": true
-    },
     {      
       "key": "至圣云(官）",      
       "name": "💖短剧二",      
@@ -1339,7 +1300,7 @@
     },            
     {
       "key": "雨上",
-      "name": "🎯2024.05.21更新",
+      "name": "🎯2024.05.24更新",
       "type": 3,
       "api": "csp_雨上",
       "searchable": 0,
