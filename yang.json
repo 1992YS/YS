@@ -36,10 +36,10 @@
      },
     {   
        "key":"Wogg",
-       "name":"💀玩偶哥哥♦网盘",
+       "name":"💀玩偶♦哥哥",
        "type":3,
        "api":"csp_Wogg",
-       "jar":"./jar/ok.jar",
+       "jar":"./jar/玩偶.jar",
        "quickSearch":1, 
        "changeable":1, 
        "filterable":1, 
@@ -57,16 +57,6 @@
       "changeable": 1,
       "ext": "./lib/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1",
       "timeout": 60
-    },
-    {
-      "key": "玩偶妹妹",
-      "name": "🤡玩偶♦妹妹",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar":"./jar/玩偶.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/tokenm.json"
     },
     {
       "key": "玩偶表哥",
@@ -103,7 +93,7 @@
     },
     {
       "key": "新感觉",
-      "name": "📺新感觉┃自建4K",
+      "name": "📺新感觉┃4K",
       "type": 1,
       "api": "http://27.54.236.201/api.php/provide/vod/",
       "playUrl": "json:http://27.54.236.201:1122/?url=",
@@ -146,16 +136,6 @@
       "type": 3,
       "api": "./js/lib/drpy2.min.js",
       "ext": "./js/360影视.js"
-    },
-    {
-      "key":"地瓜4K",
-      "name":"🦚地瓜♦臻享",
-      "type":3,
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.qiqiguai.cn/api.php/app/"
     },
     {
       "key": "6vXYQ",
