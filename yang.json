@@ -92,28 +92,6 @@
       "ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"
     },
     {
-      "key": "土豆网盘",
-      "name": "🥔土豆┃4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "./lib/tokenm.json$$$https://aliz.lvdoui.top$$$1 ",
-      "timeout": 25
-    },
-    {
-      "key": "我哥网盘",
-      "name": "🥔我哥┃4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": "./lib/tokenm.json$$$http://www.ttkx.live$$$1 ",
-      "timeout": 25
-     },
-    {
       "key": "新感觉",
       "name": "📺新感觉┃4K",
       "type": 1,
