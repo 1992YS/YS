@@ -365,9 +365,57 @@
             "jar": "./jar/jiaoyu.jar;md5;c7a318fec151961a38b81224f3078e58",
             "ext": "./lib/tiyu.json"
         },
+	{
+            "key": "xinghe",
+            "name": "🌈软件♦星河",
+            "type": 1,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://154.9.252.167:666/tvbox/lib/星河.php",
+            "playUrl": "json:http://154.9.252.167:666/tvbox/json/xinghe.php?url=",
+            "categories": [
+              ]
+        },
         {
-            "key": "老张直播",
-            "name": "🏕老张♦直播",
+            "key": "siyue",
+            "name": "🌈软件♦四月",
+            "type": 1,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://154.9.252.167:666/tvbox/lib/四月.php",
+            "playUrl": "json:http://154.9.252.167:666/tvbox/json/siyue.php?url=",
+            "categories": [
+              ]
+        },
+	{
+            "key": "xiaoxiong",
+            "name": "🌈软件♦小熊",
+            "type": 1,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://154.9.252.167:666/tvbox/lib/小熊.php",
+            "playUrl": "json:http://154.9.252.167:666/tvbox/json/xiaoxiong.php?url=",
+            "categories": [
+              ]
+        },
+        {
+            "key": "youyou",
+            "name": "🌈软件♦悠悠",
+            "type": 1,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "http://154.9.252.167:666/tvbox/lib/悠悠.php",
+            "playUrl": "json:http://154.9.252.167:666/tvbox/json/youyou.php?url=",
+            "categories": [
+              ]
+        },
+        {
+            "key": "老张智博",
+            "name": "🏕老张♦智博",
             "type": 1,
             "api": "https://zhangqun1818.serv00.net/zh/223.php",
             "searchable": 0,
@@ -2222,7 +2270,7 @@
         },
         {
             "key": "雨上",
-            "name": "🦞2024.10.09更新",
+            "name": "🦞2024.10.15更新",
             "type": 3,
             "api": "csp_雨上",
             "searchable": 0,
