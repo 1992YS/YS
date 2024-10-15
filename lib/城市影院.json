@@ -1,0 +1,6 @@
+ {
+    
+    "分类url":"https://citytv.cc/tvs/{cateId}/area/{area}/page/{catePg}/year/{year}/",
+    
+    "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#剧情片$juqing#恐怖片$kongbu#战争片$zhanzheng#悬疑片$xuanyi#动画片$donghua#纪录片$jilu#福利片$fuli#大陆剧$dalu#欧美剧$oumei#港澳剧$gangao#韩国剧$hanguo#台湾剧$tw#泰国剧$taiguo#日本剧$rb#短剧$duanju#大陆综艺$dlzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy#国产动漫$gcdm#日韩动漫$rhdm#欧美动漫$omdm#海外动漫$hwdm"
+ }
